@@ -1,0 +1,23 @@
+{
+  "hero": {
+    "tag": "ESTABLISHED 2002 | VADODARA, INDIA",
+    "title": "Engineering Zero-Contamination Process Glass & PTFE Systems",
+    "desc": "Shree Sai Scientific manufactures low-expansion borosilicate glass 3.3 columns, reactor vessels, and custom fluoropolymer systems engineered to the world's most rigorous chemical safety standards."
+  },
+  "stats": {
+    "years": "Years of Precision",
+    "countries": "Export Target Countries",
+    "plants": "Plants & Labs Equipped",
+    "facilities": "Quality Facilities"
+  },
+  "divisions": {
+    "title": "Engineered Product Divisions",
+    "desc": "Discover our divisions offering high-purity glass and fluoropolymer solutions for research and production scales.",
+    "glassTitle": "Borosilicate Glass 3.3",
+    "glassDesc": "Corrosion-resistant column structures, shell & tube heat exchangers, and glass vessel assemblies engineered for visual process validation up to 200°C.",
+    "ptfeTitle": "PTFE & Fluoropolymers",
+    "ptfeDesc": "High-density lined process pipes, stirring impellers, and custom-machined PTFE seals resistant to highly aggressive chemical media.",
+    "turnkeyTitle": "Turnkey Process Skids",
+    "turnkeyDesc": "Complete, pre-engineered modular units containing reaction vessels, structural support frames, thermal control units, and digital automation tools."
+  }
+}

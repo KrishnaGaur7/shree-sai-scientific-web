@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Central Stirring Shaft -->
+  <line x1="12" y1="2" x2="12" y2="17" />
+  <!-- Top Motor coupling collar -->
+  <rect x="10" y="2" width="4" height="3" rx="0.5" />
+  <!-- Anchor-style Agitator Impeller blades -->
+  <path d="M6 14c0 3 2.5 5 6 5s6-2 6-5" />
+  <!-- Cross stabilizer bar -->
+  <line x1="8" y1="14" x2="16" y2="14" />
+</svg>

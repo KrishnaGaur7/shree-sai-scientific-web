@@ -1,0 +1,13 @@
+{
+  "links": {
+    "products": "Products",
+    "industries": "Industries",
+    "support": "Eng Support",
+    "about": "About Us",
+    "requestQuote": "Request Quote"
+  },
+  "megamenu": {
+    "glassTitle": "Process Glass Systems",
+    "ptfeTitle": "PTFE / Fluoropolymers"
+  }
+}

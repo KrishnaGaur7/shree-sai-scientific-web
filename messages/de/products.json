@@ -1,0 +1,33 @@
+{
+  "catalog": {
+    "title": "Technical Product Catalog",
+    "desc": "Explore our precision-engineered corrosion-proof borosilicate glass 3.3 columns, reactors, and high-density fluoropolymer components mapped to rigorous industrial safety specifications."
+  },
+  "sidebar": {
+    "title": "Filter Engine",
+    "search": "Keyword Search",
+    "searchPlaceholder": "Search dimensions, codes...",
+    "division": "Product Division",
+    "industry": "Target Industry",
+    "allIndustries": "All Targeting Industries",
+    "temp": "Max Temp Capability",
+    "pressure": "Max Pressure Rating",
+    "reset": "RESET",
+    "found": "FOUND {count} ENGINEERING SOLUTIONS",
+    "activeFilters": "Filters Active",
+    "empty": "No engineering components match your active sidebar filters.",
+    "clearAll": "Clear all queries"
+  },
+  "labels": {
+    "sizeLimits": "SIZE LIMITS",
+    "tempRange": "TEMP RANGE",
+    "maxPressure": "MAX PRESSURE",
+    "specifications": "Compliance & Technical Matrix",
+    "related": "Related Process Solutions",
+    "downloadCenter": "Technical Download Center",
+    "specsLabel": "Compliance / Dimension Parameter",
+    "specsValue": "Technical Specification Value",
+    "relatedSubtitle": "PROCESS SYSTEM INTEGRATION",
+    "specificationsSubtitle": "REGULATORY AND DIMENSIONAL VERIFICATION"
+  }
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Reactor Vessel Outer Outline -->
+  <path d="M6 3h12M8 3v2M16 3v2M5 8v8c0 3.87 3.13 7 7 7s7-3.13 7-7V8M5 8h14" />
+  <!-- Inner Jacket Layer -->
+  <path d="M8 8v7c0 2.21 1.79 4 4 4s4-1.79 4-4V8" stroke-dasharray="2 2" />
+  <!-- Stirring Agitator Shaft & Impeller -->
+  <path d="M12 3v12M9 15h6M10 17h4" />
+  <!-- Inlet/Outlet Flanges -->
+  <path d="M3 10h2M19 10h2M12 21v2" />
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Outer Shell Cylinder -->
+  <rect x="4" y="6" width="16" height="12" rx="2" />
+  <!-- Internal Tube Bundles -->
+  <line x1="4" y1="9" x2="20" y2="9" stroke-dasharray="1 1" />
+  <line x1="4" y1="12" x2="20" y2="12" />
+  <line x1="4" y1="15" x2="20" y2="15" stroke-dasharray="1 1" />
+  <!-- Service Fluid Inlet/Outlet Flanges (Vertical) -->
+  <path d="M7 4v2M7 18v2M17 4v2M17 18v2" />
+</svg>

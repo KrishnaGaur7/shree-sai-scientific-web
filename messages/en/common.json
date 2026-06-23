@@ -1,0 +1,22 @@
+{
+  "buttons": {
+    "inquiry": "Inquire & Configure Custom Build Specs",
+    "reset": "RESET",
+    "back": "BACK TO CATALOG",
+    "backDivision": "BACK TO DIVISION",
+    "viewCatalog": "Explore Technical Catalog",
+    "viewSpecs": "Specs & CAD",
+    "viewSpecsMatrix": "Specifications Matrix",
+    "viewGlass": "View Glassware Solutions",
+    "viewPtfe": "View PTFE Solutions",
+    "viewTurnkey": "View Turnkey Skids"
+  },
+  "units": {
+    "temp": "TEMP",
+    "press": "PRESS",
+    "volume": "VOLUME"
+  },
+  "fallback": {
+    "notice": "This section is currently showing in default English while localized technical engineering terms are being validated."
+  }
+}
